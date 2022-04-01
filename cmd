@@ -1,4 +1,3 @@
-git config --global user.name ZhangShuai
 git config --global user.email siming89@126.com
 git config --global core.editor vim
 
